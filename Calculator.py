@@ -420,7 +420,7 @@ class Example(QWidget):
 
 
 
-#gljkhbjk
+#gljkhbjkfdgfgfg
 
 class SecondForm(QWidget):
 
